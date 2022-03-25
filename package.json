@@ -1,0 +1,15 @@
+{
+  "name": "webbit",
+  "version": "0.1.0",
+  "description": "Webbit Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldoy/webbit"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "MIT"
+}
